@@ -7,7 +7,7 @@ Bu proje, **ESP8266 ve CC1101 modülü** kullanarak ** RF sinyallerini alıp gö
 
 ## 🚀 Özellikler
 ✅ **ESP8266 Desteği**
-✅ **433MHz CC1101 RF Alıcı & Verici Kullanımı**
+✅ **CC1101 RF Alıcı & Verici Kullanımı**
 ✅ **Seri Port Üzerinden Komut Gönderme**
 ✅ **Alıcı & Verici Modları Arasında Geçiş**
 ✅ **Kolay Entegrasyon & Kullanım**
@@ -16,7 +16,7 @@ Bu proje, **ESP8266 ve CC1101 modülü** kullanarak ** RF sinyallerini alıp gö
 
 ## 🔧 Donanım Gereksinimleri
 - **ESP8266 (NodeMCU, Wemos D1 Mini vb.)**
-- **CC1101 433MHz RF Modülü**
+- **CC1101 Modülü**
 - **Bağlantı kabloları**
 
 ---
